@@ -1,2 +1,2 @@
 # git
-java and html
+for others
