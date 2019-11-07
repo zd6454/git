@@ -1,2 +1,2 @@
-# git
+# gitskills
 for others
